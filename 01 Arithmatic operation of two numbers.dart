@@ -16,4 +16,3 @@ void main() {
 
   var mod = n2 % n1;
   print("reminder of ${n1} and ${n2} is ${mod}");
-}
